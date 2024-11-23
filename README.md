@@ -67,3 +67,46 @@ Considerando los detalles técnicos de los armados, el incremento en el espesor 
 ---
 ### Salón Mambo de Casino de la Selva
 Otra de las obras que representamos del extinto Casino de la Selva en Cuernavaca, fue el interesante edificio de Salón Mambo. Única obra de las presentadas que se considera de 'bordes mixtos', ya que el plano de corte lateral de cada uno de sus dos mantos, no corresponde a la orientación de los planos de corte verticales, produciendo al centro bordes rectos como los que se construyeron con San José Obrero, y a los laterales son curvos. Originalmente se estimó una escala un poco mayor a la original, pero las dimensiones y dificultades de manipulación de las piezas dificultaban el pegado de la maqueta por su menor espesor. Finalmente se decidió aumentar la escala, y controlar el espesor. Aunque esto no terminó facilitando la unión de las varias piezas en las que se tuvo que segmentar el modelo (varias de las cuales se tuvieron que re-imprimir), permitió ajustar con mayor precisión la maqueta con el uso de escantillones de referencia, y las piezas que representan los tirantes centrales.
+
+---
+### Alas de Tequesquitengo / Acceso a Laboratorios Lederle / Concha Acústica de la Unidad Habitacional Santa Fe
+
+---
+### Manantiales constructivo
+Manantiales
+
+---
+### San Antonio de las Huertas
+San Antonio
+
+---
+### Guadalupe de Madrid
+G
+
+---
+### Santa Mónica
+
+---
+### Paraguas Mercado de Coyoacán
+Paraguas
+
+---
+### Altillo
+
+---
+### Metro Candelaria
+Metro
+
+---
+### Paraguas High Life
+
+---
+### Palmira
+
+---
+### Jacaranda
+
+---
+### Bolsa Mexicana de Valores
+
+---
