@@ -4,8 +4,12 @@ Descripción simple del proceso de elaboración de maquetas para la exposición 
 
 ---
 ---
-### San Vicente de Paul: 
-Una vez verificado el trazo, el modelo tridimensional se facilitó con la ayuda de los elementos adicionales... Las trabes de borde, ya que ayudaron a 'ocultar' el espesor adicional. Las trabes de borde van variando el peralte, así fue posible generar la cara interior del paraboloide hiperbólico, modificando la posición de los vértices que fueron ocultos dentro de dichas trabes, para obtener un modelo más fácil de imprimir, con mayor espesor. Y aún así, se respetaron los detalles de los bordes, y el trazo de los apoyos y vitrales, fieles a la obra construida.
+### San Vicente de Paul
+El ejercicio de San Vicente de Paul también permitió afinar varios de los criterios que se utilizaron en la producción del resto de las maquetas, sobre todo al considerar el control del espesor que convenía más para la impresión tridimensional. Se trata de la representación de una capilla compuesta por tres elementos de cascarón de concreto armado de bordes rectos, unidos entre sí con mangueterías que, aunque son metálicas, se representaron como un elemento que trabaja estructuralmente y de forma solidaria con el cascarón, y sobre los que se montaron vistosos vitrales, los cuales no se representaron para poder dejar vista hacia el interior y preservar la liviandad de la maqueta.
+
+También existía una base de trazo de la maqueta realizada anteriormente, sin embargo, al actualizar los elementos a un menor espesor y elaborar el modelado con los detalles de uniones y mangueterías, se pudo rectificar el trazo con una mejor estimación de la información que se encontraba en archivos diversos. Afinando el criterio de representación de las trabes de borde, y que la impresión tridimensional permite apreciar los detalles de forma más fina, se optó por representar de forma fiel las dimensiones de peralte y forma de estas trabes, al menos lo que puede apreciarse desde el exterior. 
+
+Al interior, el trazo de hypar es sutilmente distinto, para poder incrementar el espesor hacia el centro, y facilitar la producción y ensamblaje de piezas. Primero se intentó la impresión de los detalles más finos de las mangueterías y el remate de vitrales con impresión FDM, sin embargo, la escala de la maqueta no permitió que salieran de forma satisfactoria, por lo que al final se resolvieron estos detalles con impresión en resina fotosensible.
 
 ---
 ### Caseta Verde Valle:
@@ -29,14 +33,6 @@ La documentación acerca del PRC tiene algunas variaciones respecto de la obra c
 Aunque el cascarón del PRC también refleja el estriado de la huella de la cimbra, la calidad resultante no fue muy satisfactoria, a pesar que se imprimió utilizando la estrategia de rotar el modelo en el sentido de la directriz recta, debido a la escala, la calidad dada por los equipos en que se produjeron las piezas, y la propia geometría que resultaba en un paraboloide hiperbólico en forma de 'silla de montar' con parámetros de parábola muy diferentes que reflejaban una forma muy 'estrechada' en los laterales.
 
 Como una de las primeras maquetas producidas y terminadas, fue sin embargo descartada, ya que se estimó producir una versión a mayor escala (1 a 50 en lugar de 1 a 100 del primer modelo). La afortunada producción de la maqueta final permitió mejorar los detalles menos logrados de la anterior, específicamente en la representación del estriado y las escaleras, además que se descartaron las losas del entrepiso que se reemplazaron por acrílico para poder mostrar mejor detalle y mayor difusión de la iluminación al interior. Esto último se consideró un criterio más para algunas de las maquetas que pudieran reflejar detalles bajo losas construídas con el uso de acrílico transparente o con efecto esmerilado. Aún así, fue necesario actualizar el modelo y las piezas, pues al incrementar la escala, varias piezas no entraban en el espacio de impresión de los equipos y tuvieron que segmentarse y añadir detalles de ensamble.
-
----
-### San Vicente de Paul
-El ejercicio de San Vicente de Paul también permitió afinar varios de los criterios que se utilizaron en la producción del resto de las maquetas, sobre todo al considerar el control del espesor que convenía más para la impresión tridimensional. Se trata de la representación de una capilla compuesta por tres elementos de cascarón de concreto armado de bordes rectos, unidos entre sí con mangueterías que, aunque son metálicas, se representaron como un elemento que trabaja estructuralmente y de forma solidaria con el cascarón, y sobre los que se montaron vistosos vitrales, los cuales no se representaron para poder dejar vista hacia el interior y preservar la liviandad de la maqueta.
-
-También existía una base de trazo de la maqueta realizada anteriormente, sin embargo, al actualizar los elementos a un menor espesor y elaborar el modelado con los detalles de uniones y mangueterías, se pudo rectificar el trazo con una mejor estimación de la información que se encontraba en archivos diversos. Afinando el criterio de representación de las trabes de borde, y que la impresión tridimensional permite apreciar los detalles de forma más fina, se optó por representar de forma fiel las dimensiones de peralte y forma de estas trabes, al menos lo que puede apreciarse desde el exterior. 
-
-Al interior, el trazo de hypar es sutilmente distinto, para poder incrementar el espesor hacia el centro, y facilitar la producción y ensamblaje de piezas. Primero se intentó la impresión de los detalles más finos de las mangueterías y el remate de vitrales con impresión FDM, sin embargo, la escala de la maqueta no permitió que salieran de forma satisfactoria, por lo que al final se resolvieron estos detalles con impresión en resina fotosensible.
 
 ---
 ### Embotelladora Bacardí
